@@ -1,0 +1,58 @@
+1. Histogram
+Purpose: Shows the distribution of continuous data by grouping values into bins (intervals).
+
+Use Case: Analyzing frequency distributions (e.g., exam scores, age groups).
+
+2. Stem and Leaf Plot
+Purpose: Displays individual data points while preserving exact values.
+
+Use Case: Small datasets where raw data visibility is important (e.g., test scores).
+
+Difference vs. Histogram: Shows exact values, not binned frequencies.
+
+3. Box and Whisker Plot (Box Plot)
+Purpose: Summarizes data distribution using quartiles (median, IQR, outliers).
+
+Use Case: Comparing distributions across categories (e.g., salaries by profession).
+
+Difference vs. Histogram: Focuses on spread/outliers, not detailed frequency.
+
+4. Dot Plot
+Purpose: Represents individual data points as dots along an axis.
+
+Use Case: Small datasets or comparing frequencies across categories.
+
+Difference vs. Bar Chart: Shows exact counts per category without bars.
+
+5. Pie Chart
+Purpose: Displays parts of a whole as proportional slices.
+
+Use Case: Showing percentage compositions (e.g., budget allocation).
+
+Difference vs. Bar Chart: Best for single-series part-to-whole comparisons.
+
+6. Bar Chart
+Purpose: Compares categorical data using rectangular bars.
+
+Use Case: Ranking or comparing discrete categories (e.g., sales by product).
+
+Difference vs. Histogram: Bars are spaced apart (categorical, not binned numeric data).
+
+7. Heatmap
+Purpose: Visualizes matrix-like data using color intensity.
+
+Use Case: Correlation matrices or geographic data (e.g., population density).
+
+Difference vs. Others: Uses color gradients, not bars/dots.
+
+8. Violin Plot
+Purpose: Combines a box plot with a smoothed histogram (shows density).
+
+Use Case: Detailed distribution analysis (e.g., bimodal data).
+
+Difference vs. Box Plot: Reveals density peaks and valleys.
+
+9. Symmetry and Skewness
+Purpose: Describes data distribution shape (symmetric, left/right-skewed).
+
+Use Case: Identifying bias or outliers in datasets.
